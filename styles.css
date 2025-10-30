@@ -1,0 +1,4 @@
+body { font-family: sans-serif; margin: 20px; }
+h1 { text-align: center; }
+.show { margin-bottom: 20px; padding: 10px; border: 1px solid #ccc; border-radius: 8px; }
+a { color: blue; text-decoration: none; }
