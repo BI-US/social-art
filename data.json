@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Eufory",
+    "date": "2025-11-15",
+    "time": "19:00",
+    "venue": "Teatro Central",
+    "description": "Una aventura mágica.",
+    "image": "images/.jpg",
+    "tickets_url": "#"
+  },
+  {
+    "title": "EUFORY ",
+    "date": "2025-11-22",
+    "time": "20:00",
+    "venue": "Sala EUFORY",
+    "description": "Drama y comedia en un hechizo inolvidable.",
+    "image": "images/hechizo_luna.jpg",
+    "tickets_url": "#"
+  }
+]
